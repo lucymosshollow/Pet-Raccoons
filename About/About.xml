@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+    <name>Pet Raccoons</name>
+    <author>Mosshollow</author>
+    <description>Changes raccoons to be usefull pets. Who doesn't want to get nuzzles from a trash panda?</description>
+	<packageId>Mosshollow.PetRaccoons</packageId>
+	<supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+</ModMetaData>
