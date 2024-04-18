@@ -9,7 +9,7 @@
     <Operation Class="PatchOperationReplace">
         <xpath>/Defs/ThingDef[defName="Raccoon"]/statBases/FilthRate</xpath>
         <value>
-            <FilthRate>0.15</FilthRate>
+            <FilthRate>0.8</FilthRate>
         </value>
     </Operation>
     <Operation Class="PatchOperationReplace">
